@@ -1,3 +1,5 @@
+//Correct but not efficient
+
 #include <bits/stdc++.h>
 using namespace std;
 
