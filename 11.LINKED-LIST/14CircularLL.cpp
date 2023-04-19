@@ -22,6 +22,7 @@ void printlist(Node *head)//for loop
     for (Node *p = head->next; p != head; p = p->next)
         cout << p->data << " ";
 }
+//Shiraz's Code
 
 void printlist(Node *head)// do while loop
 {
